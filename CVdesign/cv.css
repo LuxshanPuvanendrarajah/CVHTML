@@ -1,0 +1,12 @@
+img{
+    align-self: flex-start;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    position: relative;
+    
+}
+hr{
+    position:sticky;
+}
